@@ -1,4 +1,4 @@
-package ru.asmelnikov.cryptocurrencyapp.ui.theme
+package ru.asmelnikov.cryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

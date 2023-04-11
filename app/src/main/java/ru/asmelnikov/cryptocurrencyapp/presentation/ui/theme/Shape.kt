@@ -1,4 +1,4 @@
-package ru.asmelnikov.cryptocurrencyapp.ui.theme
+package ru.asmelnikov.cryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
